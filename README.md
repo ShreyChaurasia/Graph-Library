@@ -8,3 +8,4 @@ There are wide functions available
 3) getNumOfConnectedComponents() - returns the number of connected components. 
 4) is Bipartite() tells if a graph is bipartite 
 5) getNumOf StronglyConnectedComponents()
+6) isTree() - tells if a given graph is a tree or not.
