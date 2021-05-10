@@ -1,0 +1,3 @@
+*) Bipartite graph for directed graph can be find out by converting the directed graph to undirected one and then applying the same algorithm. Just provided the implementation in main Graph class so please don't use it for directed graphs.
+*) DFS and BFS are applied considering the assumption that graph is connected.
+*) when entries of adjacency list is empty pair <int, int> is assigned random values which is giving runtime error so beware. 
