@@ -11,3 +11,5 @@ There are wide functions available
 6) isTree() - tells if a given graph is a tree or not.
 7) bfs traversal of a tree. 
 8) dfs traversal of a tree.
+9) getNumberOfNodes()
+10 getNumberOfEdges()
