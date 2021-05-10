@@ -68,6 +68,7 @@ bool UndirectedGraph :: checkCycle(int source, vector <int> &visited, int parent
 bool UndirectedGraph :: isCyclic(){
 	vector <int> visited(numOfNodes + 1, 0);
 	int parent = 0;
+	int x;
 	for(int node = 1; node <= numOfNodes; ++node){
 		if(!visited[node]){
 			if(checkCycle(node, visited, parent)){
