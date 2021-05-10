@@ -12,4 +12,4 @@ There are wide functions available
 7) bfs traversal of a tree. 
 8) dfs traversal of a tree.
 9) getNumberOfNodes()
-10)getNumberOfEdges()
+10) getNumberOfEdges()
